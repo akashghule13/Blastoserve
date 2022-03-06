@@ -11,7 +11,7 @@ export default function grid(totalBoxes, canvas) {
     // box dimensions including gap of 'space' on each side
     const boxWidth = 200;
     const boxHeight = 100;
-    const space = 8;
+    const space = 14;
     const maxWidth = window.innerWidth - 32;
 
     const COLS = Math.floor(maxWidth / boxWidth);
