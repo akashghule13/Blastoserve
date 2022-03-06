@@ -1,0 +1,19 @@
+body {
+    box-sizing: border-box;
+    margin: 0;
+    padding: 16px;
+    width: 100vw;
+}
+
+#num {
+    display: block;
+    margin: auto;
+}
+
+#canvas {
+    box-sizing: border-box;
+    display: block;
+    width: 100%;
+    margin: 16px auto;
+    background-color: red;
+}
